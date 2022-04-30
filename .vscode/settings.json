@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": true,
+    "commentTranslate.multiLineMerge": true,
+    "commentTranslate.source": "Bing"
+}
